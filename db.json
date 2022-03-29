@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "Strawberry",
+      "category": "Fruits",
+      "status": "Brand New",
+      "price": 3.99,
+      "comment": "Good until 04/02/2022.",
+      "date": "2022-03-27T22:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Mac mini",
+      "category": "Electronics",
+      "status": "Refurbished",
+      "price": 1299,
+      "comment": "2022 M1 Mac mini 16Gb 1TB",
+      "date": "2022-03-28T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Peach",
+      "category": "Fruits",
+      "status": "Brand New",
+      "price": 4,
+      "comment": "Fresh Peaches",
+      "date": "2022-03-28T22:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "MacBook Pro",
+      "category": "Electronics",
+      "status": "Brand New",
+      "price": 2500,
+      "comment": "New MacBook Pro",
+      "date": "2022-03-29T22:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Peanuts",
+      "category": "Vegetables",
+      "status": "Brand New",
+      "price": 0.69,
+      "comment": "Small bag of dry roasted peanuts",
+      "date": "2022-03-14T23:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "iPhone",
+      "category": "Electronics",
+      "status": "Second Hand",
+      "price": 699,
+      "comment": "Used 2021 iPhone 13 Pro Max",
+      "date": "2022-03-29T22:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
